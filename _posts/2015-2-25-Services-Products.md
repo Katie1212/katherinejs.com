@@ -3,21 +3,9 @@ layout: post
 title: Services/Products
 ---
 
-
-
-
-<html>
-<head>
-
-</head>
-
-<body>
-
-  <header>
-  ![logo](https://farm9.staticflickr.com/8665/16524606309_2d9e39a300_q.jpg)
-  </header>
- 
-<h4>Services Price:
+![logo](https://farm9.staticflickr.com/8665/16524606309_2d9e39a300_q.jpg)
+  
+####Services Price:
 <p>Web Planning, Design and Development Time – 60 hours and up
 <p>Continued Website Maintenance – $500 a year and up (depending on number/type of updates required)
 <p>Marketing Your Website Online – $750 a month and up
@@ -30,7 +18,5 @@ title: Services/Products
 |Custom Domain  | are neat      |    $1 |
 
   
-</body>
-</html>
 
 
