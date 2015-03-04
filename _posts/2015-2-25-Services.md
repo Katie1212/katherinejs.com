@@ -6,7 +6,7 @@ title: Services/Products
 ![logo](https://farm9.staticflickr.com/8665/16524606309_2d9e39a300_q.jpg)
   
   
-<table width="500" border="1" bgcolor="#17CBC6" frame="border" align="center">
+<table width="500" border="6" bgcolor="#17CBC6" frame="border" align="center">
   <tbody>
     <tr>
       <th scope="col"><strong>WEB DESIGN SERVICE</strong></th>
@@ -22,7 +22,7 @@ title: Services/Products
 5 IMAGES</td>
     </tr>
     <tr>
-      <th scope="row">COMPETED WEB &amp; GRAPHIC DESIGN<br></th>
+      <th scope="row"><strong>COMPETED WEB &amp; GRAPHIC DESIGN</strong><br></th>
       <td>$1475.00 FREE HOSTING</td>
       <td>$1775.00</td>
       <td>CMS WEBSITE, AND A CUSTOM LOGO IN THREE FORMATS</td>
