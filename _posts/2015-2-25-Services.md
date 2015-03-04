@@ -6,44 +6,45 @@ title: Services/Products
 ![logo](https://farm9.staticflickr.com/8665/16524606309_2d9e39a300_q.jpg)
   
   
-<table width="200" border="1">
+<table width="500" border="1">
   <tbody>
     <tr>
-      <th scope="row">Service</th>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <th scope="col">WEB DESIGN SERVICE </th>
+      <th scope="col">STANDARD </th>
+      <th scope="col">PREMIUM  </th>
+       <th scope="col">PACKAGES DESCRIPTION</th>
     </tr>
     <tr>
-      <th scope="row">&nbsp;</th>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <th scope="row">WEB SITE STARTER</th>
+      <td>$499.00</td>
+      <td>$899.00</td>
+      <td>4 PAGES, LOGO &<br>
+5 IMAGES</td>
     </tr>
     <tr>
-      <th scope="row">&nbsp;</th>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <th scope="row">COMPETED WEB & GRAPHIC DESIGN</th>
+      <td>$1475.00 FREE HOSTING</td>
+      <td>$1775.00</td>
+      <td>CMS WEBSITE, AND A CUSTOM LOGO IN THREE FORMATS</td>
     </tr>
     <tr>
-      <th scope="row">&nbsp;</th>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <th scope="row">LOGO ONLY</th>
+      <td>$375.00</td>
+      <td>$700.00</td>
+      <td>CUSTOM LOGO IN THREE FORMATS INCLUDING THE ILLUSTRATOR FILE</td>
+    </tr>
+    <tr>
+      <th scope="row">PAGE LOAD OPTIMIZATION</th>
+      <td>$1000.00</td>
+      <td>$2000.00</td>
+      <td>COMPLETED CODE AND GRAPHIC OPTMIZATION CSS, JAVASCRIPT, HTML, PHP & SOCIAL MEDIA</td>
+      
     </tr>
   </tbody>
-</table>  
+</table>
 
 
 
-####Services Price:
-<p>Web Planning, Design and Development Time – 60 hours and up
-<p>Continued Website Maintenance – $500 a year and up (depending on number/type of updates required)
-<p>Marketing Your Website Online – $750 a month and up
-
-
-|Web Planning   | Premium       | Bundle  |
-| ------------- |:-------------:| -----:  |
-|$100.00/MO     | $200.00/MO    | $300.00/MO |
-|Mobile Website | Develope plat form |   $12 |
-|Custom Domain  | are neat      |    $1 |
 
   
 
