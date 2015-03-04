@@ -7,8 +7,7 @@ title: Services/Products
   
   
 
-  
-<table width="500" border="1" bgcolor="#17CBC6" align="center">
+  <table width="500" border="1" bgcolor="#17CBC6" align="center">
   <tbody>
     <tr>
       <th scope="col">WEB DESIGN SERVICE </th>
@@ -24,7 +23,7 @@ title: Services/Products
 5 IMAGES</td>
     </tr>
     <tr>
-      <th scope="row">COMPETED WEB & GRAPHIC DESIGN</th>
+      <th scope="row"><strong>COMPETED WEB &amp; GRAPHIC DESIGN</strong><br></th>
       <td>$1475.00 FREE HOSTING</td>
       <td>$1775.00</td>
       <td>CMS WEBSITE, AND A CUSTOM LOGO IN THREE FORMATS</td>
@@ -44,8 +43,5 @@ title: Services/Products
     </tr>
   </tbody>
 </table>
-
-
-  
 
 
