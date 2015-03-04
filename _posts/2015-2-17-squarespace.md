@@ -14,3 +14,21 @@ layout
 <p>Squarespace is a website that anyone can build it them self.  You can customize the code behind any Squarespace website using tools you already know. 
 
 <p>For developers it gives you platform full control over site’s HTML, CSS, and JavaScript while providing JSON API to output from the CMS. 
+
+##What do you get with Squarespace
+
+###Squarespace gives you the tools to grow by:
+
+#####Customization Making your own design using Style Editor. You can even personalize your own font colors, and layout to create a new look.
+
+##### Social make your website center of your online page
+
+##### Hosting update when ever you want with cloud infrastructure there’s no downtime. 
+
+##### 24/7 Customer service rest easy knowing real people are ready to help you 24 hours a day.
+##### You are able to see the traffic and behavior of visitors who search your page.
+##### And More
+
+## Join now for free with no credit card. 14 days free. 
+Read more... [Squarespace](http://www.squarespace.com/pricing/)
+
