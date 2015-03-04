@@ -5,7 +5,7 @@ title: Chat app.
 
 #A new chat application for MIU students
 <br>
-[chat app icon](http://www.androidpolice.com/wp-content/uploads/2013/07/nexusae0_FloatingNotifications-Thumb.png)
+![chat app icon](http://www.androidpolice.com/wp-content/uploads/2013/07/nexusae0_FloatingNotifications-Thumb.png)
 <br>
 <br>
 <p> It’s a simple mobile app that will help you in getting access to student and teacher in your class. 
