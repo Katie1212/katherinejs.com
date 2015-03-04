@@ -7,8 +7,9 @@ title: Services/Products
   
   
 
+  
+  <body>
    <table width="500" border="1" bordercolor="#069F9C">
-  <tbody>
     <tr>
       <th scope="col">WEB DESIGN SERVICE </th>
       <th scope="col"> STANDARD </th>
