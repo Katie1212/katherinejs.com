@@ -8,19 +8,19 @@ title: Services/Products
   
 
   
-  <body>
-   <table width="500" border="1" bordercolor="#069F9C">
+<table width="500" border="1" bgcolor="#17CBC6" align="center">
+  <tbody>
     <tr>
       <th scope="col">WEB DESIGN SERVICE </th>
       <th scope="col"> STANDARD </th>
-      <th scope="col"> PREMIUM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
+      <th scope="col"> PREMIUM </th>
        <th scope="col">PACKAGES DESCRIPTION</th>
     </tr>
     <tr>
       <th scope="row">WEB SITE STARTER</th>
       <td>$499.00</td>
       <td>$899.00</td>
-      <td>4 PAGES, LOGO &<br>
+      <td>4 PAGES, LOGO & <br>
 5 IMAGES</td>
     </tr>
     <tr>
@@ -36,15 +36,14 @@ title: Services/Products
       <td>CUSTOM LOGO IN THREE FORMATS INCLUDING THE ILLUSTRATOR FILE</td>
     </tr>
     <tr>
-      <th scope="row">PAGE LOAD OPTIMIZATION</th>
+      <th scope="row"> PAGE LOAD OPTIMIZATION </th>
       <td>$1000.00</td>
       <td>$2000.00</td>
-      <td>COMPLETED CODE AND GRAPHIC OPTMIZATION CSS, JAVASCRIPT, HTML, PHP & SOCIAL MEDIA</td>
+      <td>COMPLETED CODE AND GRAPHIC OPTMIZATION CSS, JAVASCRIPT, HTML, PHP & SOCIAL MEDIA </td>
       
     </tr>
   </tbody>
 </table>
-
 
 
   
