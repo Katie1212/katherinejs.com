@@ -6,12 +6,13 @@ title: Services/Products
 ![logo](https://farm9.staticflickr.com/8665/16524606309_2d9e39a300_q.jpg)
   
   
-<table width="500" border="1">
+
+   <table width="500" border="1" bordercolor="#069F9C">
   <tbody>
     <tr>
       <th scope="col">WEB DESIGN SERVICE </th>
-      <td scope="col"> STANDARD </rd>
-      <th scope="col"> PREMIUM   </th>
+      <th scope="col"> STANDARD </th>
+      <th scope="col"> PREMIUM &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </th>
        <th scope="col">PACKAGES DESCRIPTION</th>
     </tr>
     <tr>
@@ -42,7 +43,6 @@ title: Services/Products
     </tr>
   </tbody>
 </table>
-
 
 
 
