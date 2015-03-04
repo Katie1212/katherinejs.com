@@ -10,8 +10,8 @@ title: Services/Products
   <tbody>
     <tr>
       <th scope="col">WEB DESIGN SERVICE </th>
-      <th scope="col">STANDARD </th>
-      <th scope="col">PREMIUM  </th>
+      <th scope="col">| STANDARD </th>
+      <th scope="col"> | PREMIUM  </th>
        <th scope="col">PACKAGES DESCRIPTION</th>
     </tr>
     <tr>
