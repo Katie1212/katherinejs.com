@@ -11,10 +11,10 @@ title: Services/Products
 <p>Marketing Your Website Online – $750 a month and up
 
 
-|Web Planning      | Premium       | Bundle  |
+|Web Planning   | Premium       | Bundle  |
 | ------------- |:-------------:| -----:  |
-|$100.00/MO      | $200.00/MO     | $300.00/MO |
-|Mobile Website | Develope plat form   |   $12 |
+|$100.00/MO     | $200.00/MO    | $300.00/MO |
+|Mobile Website | Develope plat form |   $12 |
 |Custom Domain  | are neat      |    $1 |
 
   
