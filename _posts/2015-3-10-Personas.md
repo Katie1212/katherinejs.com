@@ -1,0 +1,32 @@
+---
+layout: post
+title: Personas
+
+---
+
+###	BACKGROUND:
+•	Voted Top 100 Spine Surgeon in America
+•	American Board of Orthopaedic Surgery, July 2009
+•	Just got engaged in 2015 (No Children)
+
+###	DEMOGRAPHICS
+•	Male
+•	Age 30-40
+•	Dual SS Income: $500,000,000.00
+•	City
+•	
+###	IDENTIFIERS:
+•	Mellow
+•	Have 2 Physician Assistant
+
+###	GOALS:
+•	Keep patients happy and keep them coming
+•	Every surgery goes well
+
+###	CHALLENGES:
+-Rely on his staff member to manage his patient and income. 
+Make every patient come out alive or better
+
+###	HOW WE HELP: 
+Administrative Office
+
