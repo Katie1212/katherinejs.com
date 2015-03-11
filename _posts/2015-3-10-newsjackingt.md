@@ -1,6 +1,7 @@
 ---
 layout: post
 ---
+
 ## WHAT COLOR IS THIS DRESS?
 
 ![Dress](http://i2.cdn.turner.com/cnnnext/dam/assets/150226215539-black-blue-dress-super-169.jpg)
