@@ -11,4 +11,5 @@ title: Curated Collection Bolg
 <p>Photoshop can be used to create a professional looking layout that can be transferred to Dreamweaver. How is it done? Adobe Photoshop just had a recent update to make it easer on Graphic and Web Designer taking actual codes and transferring to Dreamweaver.
 
 ###1. Design your webpage:
+![website](https://farm9.staticflickr.com/8620/16856878585_572647e6f6_o.png)
 
