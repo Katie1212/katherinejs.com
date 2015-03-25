@@ -85,4 +85,4 @@ Associated Press writers Gary Fineout in Tallahassee, Florida, and Philip Elliot
 —
 
 Follow Michael J. Mishak on Twitter.
-[Web Link]( http://www.pbs.org/newshour/rundown/south-florida-especially-vulnerable-rising-sea-levels/)
+[Article Link]( http://www.pbs.org/newshour/rundown/south-florida-especially-vulnerable-rising-sea-levels/)
