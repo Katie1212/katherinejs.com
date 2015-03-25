@@ -9,7 +9,10 @@ title:
 
 ###Lady Gaga confirmed her engagement on her Instagram 
 She posted a picture of her engagement ring, but didn’t say who it was. 
-February 16, she shared pictures of a heart shape ring and said, “ he gave me his hear on Valentine's Day, and I said YES!"
+February 16, she shared pictures of a heart shape ring and said, “ He gave me his heart on Valentine's Day, and I said YES!"
 World shocker!!! Who’s the guy to give his heart away???
-Taylor Kinner an actor who has been on a couple of shows like Trauma, The Vampire Diaries, and Shameless.
+Taylor Kinner an actor who has been on a couple of shows like Trauma, The Vampire Diaries, and Shameless. 
+Good-looking guy.  They met on set of Gaga's song “You and I”, witch was shot in Nebraska the day she ware her mother actual wedding gown. Luck dress got her a man. 
+
+
 
