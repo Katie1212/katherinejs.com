@@ -12,7 +12,7 @@ layout: page
 <p> Formatting for PHP. Learning the formatting for scraping PHP. On my Mid-term I had to Design a contact sheet for client to fill out. This contact form has to be fill out and submitted to the company.
 
 ![Nightmares](https://farm9.staticflickr.com/8670/16225980997_b153152aab_n.jpg) [Click to preview image]()
-This movie was design for a Photoshop class for final. I had to design four pieces. I wanted to make a thriller scary theme cover of an action movie. The colors red was layered all over to create a scary scent feeling. I choose three great actors that a lot of people love to see their movies...
+This movie was design for a Photoshop class for final. I had to design four pieces. I wanted to make a thriller scary theme cover of an action movie. The colors red was layered all over to create a scary scent feeling. 
 
 <a href="http://youtu.be/DvnwK6r3L3U" target="_blank"><img src="https://farm8.staticflickr.com/7327/15793540413_d802dff31a_n.jpg" 
 alt="http://youtu.be/DvnwK6r3L3U" width="240" height="180" border="10" /></a> [To play video click image]
