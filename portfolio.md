@@ -2,7 +2,7 @@
 layout: page
 ---
 
- ![Flyers](https://farm8.staticflickr.com/7363/16199081250_632e7851c5_m.jpg) [Charity Flyer Designs read more...](http:///katherinejs.aisites.com/github/index.html)
+ ![Flyers](https://farm8.staticflickr.com/7363/16199081250_632e7851c5_m.jpg) [Charity Flyer Designs read more...](http:///katherinejs.aisites.com/github/index.htmlx)
 <p>This flyer represent event that took place at The Fresh Pointe Produce for leukemia support.
 
 ![Business Card Designs](https://farm9.staticflickr.com/8583/16389610585_b097c33961_n.jpg) [Read more..](http://autowaxusa.com/)
