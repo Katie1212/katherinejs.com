@@ -15,6 +15,6 @@ layout: page
 This movie cover was designed for a Photoshop class for final. I had to create four pieces; one was a movie cover, movie board, a movie billed board and a 3d board for the finals. I took four characters out of a movie cover and mixed into my own design. This is my final look.
 
 <a href="http://youtu.be/DvnwK6r3L3U" target="_blank"><img src="https://farm8.staticflickr.com/7327/15793540413_d802dff31a_n.jpg" 
-alt="http://youtu.be/DvnwK6r3L3U" width="240" height="180" border="10" /></a> [To play video click image] (https://www.youtube.com/watch?v=DvnwK6r3L3U&feature=youtu.be)
+alt="http://youtu.be/DvnwK6r3L3U" width="240" height="180" border="10" /></a> [To play video click image](https://www.youtube.com/watch?v=DvnwK6r3L3U&feature=youtu.be)
 
 Creating this video for Mommy’s Club, I gather different scene and clips to create a way to grab viewers' attention on how our society has changed and how we are Toxic with unnatural ingredients in our food, cosmetics, and others. This video was also part of a class assignment. I chose to create this video because I join a Mommy Club Company. To help people make a simple life change by shopping safe and save and build a healthy lifestyle by purchasing organic, Ecocert, Toxic Free and all- natural ingredient products.  [To shop and learn more](https://healthyhomecompany.com/freshground)
